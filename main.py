@@ -41,4 +41,4 @@ async def on_message(message):
             await message.channel.send(f'Guild not found.')
 
 
-client.run('MTA3MDc0MzkwMTYyOTA3MTQwMg.GPCQAq.jLtu0GmJLi3Nk0hGVmZI2nCIXNk45NwG5yvwgM')
+client.run('')
